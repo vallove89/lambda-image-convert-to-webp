@@ -1,0 +1,14 @@
+{
+  "name": "lambda-s3",
+  "version": "1.0.0",
+  "description": "Lambda function creating a thumbnail when uploading a new image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Val Love",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.32.6"
+  }
+}
